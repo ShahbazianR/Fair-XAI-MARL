@@ -114,26 +114,25 @@ Implements the base learning algorithm.
 
 After running the script, the results will be printed and plotted, showing the performance of the proposed method compared to the base method in terms of fairness, explainability, and reward.
 
-## Example Output
+##  Output (for 3 nodes and 10 tasks)
 \`\`\`plaintext
 Proposed Method:
-Average System Fairness: 0.789
-Average System Explainability: 0.612
-Average System Reward: 2.345
-Agent 1 Average Reward: 2.301
-...
+Average System Fairness: 0.749
+Average System Explainability: 0.440
+Average System Reward: 2.115
+Agent 1 Average Reward: 1.247
+Agent 2 Average Reward: 1.402
+Agent 3 Average Reward: 3.695
 
 Base Method:
-Average System Fairness: 0.659
-Average System Explainability: 0.543
-Average System Reward: 2.123
-Agent 1 Average Reward: 2.087
-...
+Average System Fairness: 0.538
+Average System Explainability: 0.067
+Average System Reward: 2.376
+Agent 1 Average Reward: 0.913
+Agent 2 Average Reward: 0.662
+Agent 3 Average Reward: 5.553
 \`\`\`
-
-## Visualization
-
-The script generates plots to visualize the fairness score, explainability score, and average reward over iterations. Additionally, it provides agent-specific plots for reward, fairness, and explainability over iterations.
+The figures for this simulation is also given. In the paper we publish the results for 10 nodes and 100 tasks. 
 
 ## License
 
