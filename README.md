@@ -139,3 +139,14 @@ The figures for this simulation is also given. In the paper we publish the resul
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Citation
+@inproceedings{mahmood2024fairness,
+  title={Fairness-Driven Explainable Learning in Multi-Agent Reinforcement Learning},
+  author={Tariq Mahmood and Reza Shahbazian and Irina Trubitsyna},
+  booktitle={The 1st International Workshop on “Adjustable Autonomy and Physical Embodied Intelligence” - European Conference on Artificial Intelligence (ECAI)},
+  year={2024},
+  address={Santiago de Compostela, Spain},
+  note={Copyright for this paper by its authors. Use permitted under Creative Commons License Attribution 4.0 International (CC BY 4.0).}
+}
+
