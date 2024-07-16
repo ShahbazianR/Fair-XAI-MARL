@@ -133,6 +133,8 @@ Agent 2 Average Reward: 0.662
 Agent 3 Average Reward: 5.553
 \`\`\`
 The figures for this simulation is also given. In the paper we publish the results for 10 nodes and 100 tasks. 
+![pic1-git-3n](https://github.com/user-attachments/assets/24a0bbf6-8961-4f02-b77e-058bb500422d)
+![git-rewards](https://github.com/user-attachments/assets/3b029204-1d35-4c67-a91b-6a4fadbddd63)
 
 ## License
 
